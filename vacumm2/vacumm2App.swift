@@ -14,4 +14,5 @@ struct vacumm2App: App {
             ContentView()
         }
     }
+    
 }
